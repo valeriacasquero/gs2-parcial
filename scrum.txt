@@ -1,0 +1,4 @@
+Mencione los actores, los artefactos y las ceremonias de scrum.
+Scrum master, tester, cliente, ingenieros desarrolladores.
+backlog
+Ceremonias, daylis, reviews.
